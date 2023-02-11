@@ -1,11 +1,13 @@
-
-        .bigfont{
-            color:blueviolet;
-            font-size: 48px;
-            background-color: black;
-        }
-
-        .brian{
-            color: rgb(255, 0, 0);
-            font-size: 69px;
-        }
+.bigfont{
+    color:blueviolet;
+    font-size: 48px;
+    background-color: black;
+}
+.brian{
+    color: rgb(255, 0, 0);
+    font-size: 69px;
+}
+.jackson{
+    color: aquamarine;
+    font-size: 69px;
+}
